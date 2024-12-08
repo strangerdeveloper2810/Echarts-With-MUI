@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Jira",
+    "subtitle": "jira",
+    "description": "Jira is used for issue tracking and project management, widely adopted by organizations for bug tracking and team collaboration.",
+    "category": "Software",
+    "riskLevel": "Medium",
+    "riskScore": 30,
+    "totalRisk": 30
+  },
+  {
+    "id": 2,
+    "title": "GitLab",
+    "subtitle": "gitlab",
+    "description": "GitLab is a DevOps platform that provides a single application for all stages of the software development lifecycle.",
+    "category": "Software",
+    "riskLevel": "Low",
+    "riskScore": 20,
+    "totalRisk": 20
+  },
+  {
+    "id": 3,
+    "title": "VMware",
+    "subtitle": "vmware",
+    "description": "VMware provides cloud computing and virtualization solutions, enabling businesses to optimize IT infrastructure.",
+    "category": "Software",
+    "riskLevel": "High",
+    "riskScore": 65,
+    "totalRisk": 65
+  },
+  {
+    "id": 4,
+    "title": "VirtualBox",
+    "subtitle": "virtualbox",
+    "description": "VirtualBox is a free, open-source virtualization software that allows users to run multiple operating systems on a single machine.",
+    "category": "Software",
+    "riskLevel": "Medium",
+    "riskScore": 35,
+    "totalRisk": 35
+  },
+  {
+    "id": 5,
+    "title": "Firefox",
+    "subtitle": "firefox",
+    "description": "Firefox is a secure and privacy-focused web browser, known for its customizability and open-source nature.",
+    "category": "Software",
+    "riskLevel": "Low",
+    "riskScore": 15,
+    "totalRisk": 15
+  },
+  {
+    "id": 6,
+    "title": "Chrome",
+    "subtitle": "chrome",
+    "description": "Chrome is a fast and widely used web browser developed by Google, offering a variety of extensions and features.",
+    "category": "Software",
+    "riskLevel": "Medium",
+    "riskScore": 40,
+    "totalRisk": 40
+  },
+  {
+    "id": 7,
+    "title": "Elasticsearch",
+    "subtitle": "elasticsearch",
+    "description": "Elasticsearch is a distributed, open-source search and analytics engine for a variety of data types.",
+    "category": "Software",
+    "riskLevel": "High",
+    "riskScore": 70,
+    "totalRisk": 70
+  },
+  {
+    "id": 8,
+    "title": "Slack",
+    "subtitle": "slack",
+    "description": "Slack is a business messaging app connecting teams and providing tools for collaboration and communication.",
+    "category": "Communication",
+    "riskLevel": "Medium",
+    "riskScore": 35,
+    "totalRisk": 35
+  },
+  {
+    "id": 9,
+    "title": "Zoom",
+    "subtitle": "zoom",
+    "description": "Zoom is a video conferencing platform widely used for virtual meetings, webinars, and team collaboration.",
+    "category": "Communication",
+    "riskLevel": "Critical",
+    "riskScore": 85,
+    "totalRisk": 85
+  }
+]

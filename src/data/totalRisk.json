@@ -1,0 +1,55 @@
+{
+    "status": true,
+    "data": [
+        {
+            "name": "Jira",
+            "risk_assessed": 4,
+            "risk_level": 5.25,
+            "id": "66e10e764f6c1928685a710c",
+            "total_risk": 6
+        },
+        {
+            "name": "Gitlab",
+            "risk_assessed": 2,
+            "risk_level": 2.5,
+            "id": "66e25f8771eb9ce0596fbdde",
+            "total_risk": 4
+        },
+        {
+            "name": "Firefox",
+            "risk_assessed": 3,
+            "risk_level": 12.333333333333334,
+            "id": "66f7a39b32d875766193575f",
+            "total_risk": 4
+        },
+        {
+            "name": "MinIO",
+            "risk_assessed": 2,
+            "risk_level": 7.0,
+            "id": "66e2618571eb9ce0596fbde5",
+            "total_risk": 3
+        },
+        {
+            "name": "VirtualBox",
+            "risk_assessed": 1,
+            "risk_level": 1.0,
+            "id": "66e3b50ee91aa87d255b52b4",
+            "total_risk": 3
+        },
+        {
+            "name": "Elasticsearch",
+            "risk_assessed": 2,
+            "risk_level": 4.5,
+            "id": "66e26ccc71eb9ce0596fbe00",
+            "total_risk": 2
+        },
+        {
+            "name": "VMware ESXi and Horizon DaaS",
+            "risk_assessed": 2,
+            "risk_level": 2.5,
+            "id": "66e413f1e694dab8762f4a41",
+            "total_risk": 2
+        }
+    ],
+    "message": "Get total risk of asset success."
+}
